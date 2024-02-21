@@ -1,5 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Mario Zamata</h1>
 
+<br>
+
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation.gif" alt="adam-pw" /></p>
+
+<br>
 <!--
 **MarioStvan/MarioStvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
